@@ -2,8 +2,10 @@
 
 
 
-Brendan Lill - Bml114@pitt.edu
-Andrew Grim - Ajg365@pitt.edu
+Brendan Lill - Bml114@pitt.edu - Brendan-Lill-Data-Analysis
+
+Andrew Grim - Ajg365@pitt.edu - Andrew Grim Notebook
+
 Mason Philips - 
 
 Fire Incidents - https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02
