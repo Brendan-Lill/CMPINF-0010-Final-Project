@@ -1,6 +1,6 @@
 # CMPINF-0010-Final-Project
 
-BAM - Final Project Group 15
+Team Name: BAM - Final Project Group 15
 <br>
 <br>
 <br>
