@@ -1,6 +1,6 @@
 # CMPINF-0010-Final-Project
 
-(Insert Team Name Here) - Final Project Group 15
+Team 15 - Final Project Group 15
 
 Brendan Lill - Bml114@pitt.edu - Brendan-Lill-Data-Analysis
 
@@ -14,4 +14,4 @@ Monthly Criminal Activity - https://data.wprdc.org/dataset/monthly-criminal-acti
 
 City Parks - https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d
 
-In this repository, each of the members individual personal notebooks can be found next to their name, as well as the combined final notebook.
+In this repository, each of the members individual notebooks can be found next to their name, as well as the combined final notebook called 'Combined-Notebook.ipynb'.
